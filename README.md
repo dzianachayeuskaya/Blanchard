@@ -1,3 +1,3 @@
 # Blanchard
 
-[Demo](https://dzianachayeuskaya.github.io/blanchard).
+[Demo](https://dzianachayeuskaya.github.io/Blanchard).
